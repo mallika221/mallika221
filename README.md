@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-🎓 I'm currently pursuing my **Master’s in Computer Science** at Lakehead University, Canada.  
+🎓 I'm recent M.Sc. Computer Science grad from Lakehead University, Canada  
 💼 I have 2 years of experience in **backend development** using **Golang** and **Python**.  
 🔍 I specialize in **building scalable microservices**, **distributed systems**, and **RESTful APIs**.  
 📚 Always learning: currently focused on **Low-Level Design (LLD)**.
